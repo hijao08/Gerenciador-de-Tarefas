@@ -21,8 +21,8 @@ Este projeto demonstra um simples aplicativo de tarefas (Todo) onde você pode:
 1. Clone este repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    cd seu-repositorio
+    git clone https://github.com/hijao08/api_todo.git
+    cd api_todo
     ```
 
 2. Crie um ambiente virtual:
