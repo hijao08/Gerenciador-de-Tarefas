@@ -52,7 +52,3 @@ Este projeto demonstra um simples aplicativo de tarefas (Todo) onde você pode:
     python manage.py runserver
     ```
 
-8. Acesse a aplicação em [http://127.0.0.1:8000](http://127.0.0.1:8000)
-
-## Estrutura do Projeto
-
