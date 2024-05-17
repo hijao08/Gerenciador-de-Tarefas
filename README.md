@@ -52,3 +52,11 @@ Este projeto demonstra um simples aplicativo de tarefas (Todo) onde você pode:
     python manage.py runserver
     ```
 
+## Endpoints da API
+
+- `GET /todos/` - Lista todas as tarefas
+- `POST /todos/` - Cria uma nova tarefa
+- `GET /todos/{id}/` - Detalha uma tarefa específica
+- `PUT /todos/{id}/` - Atualiza uma tarefa específica
+- `DELETE /todos/{id}/` - Deleta uma tarefa específica
+
